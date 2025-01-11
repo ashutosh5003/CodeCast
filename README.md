@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo
 
-Try out CodeCast here: [Live Demo](https://codecast-324z.onrender.com)  
+Try out CodeCast here: [Live Demo](https://codecast1.onrender.com/)  
 Create or join a room and start collaborating in real time!
 
 ---
@@ -29,7 +29,6 @@ Create or join a room and start collaborating in real time!
 
 - **Frontend**:
   - [React](https://reactjs.org/) – Building the user interface.
-  - [CodeMirror](https://codemirror.net/) – Embedded code editor.
 
 - **Database**:
   - [MongoDB](https://www.mongodb.com/) – Storing user and room data.
@@ -38,7 +37,7 @@ Create or join a room and start collaborating in real time!
 
 ## 📋 Usage
 
-1. Open the [CodeCast live demo](https://codecast-324z.onrender.com).
+1. Open the [CodeCast live demo](https://codecast1.onrender.com/).
 2. Enter a **Room ID** or generate a new one.
 3. Set your **Username**.
 4. Start coding collaboratively in real time!
